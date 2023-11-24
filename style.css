@@ -503,9 +503,7 @@ section .title::after {
 .skills-content .right .django::before {
   width: 70%;
 }
-.skills-content .right .last::before {
-  width: 60%;
-}
+
 
 /*  Projects  */
 .projects .title::after {
