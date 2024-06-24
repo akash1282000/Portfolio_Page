@@ -501,7 +501,7 @@ section .title::after {
 }
 
 .skills-content .right .django::before {
-  width: 70%;
+  width: 60%;
 }
 
 
